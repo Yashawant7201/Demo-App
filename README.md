@@ -1,3 +1,3 @@
 # React-Demo-App
-This is my another repo about React js App. <br> This app explains basic and core concepts of React. So, follow along.<br>
+This is a project created for learning.
 Author - Yashawant Pundlik Sawant.
