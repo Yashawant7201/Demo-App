@@ -1,3 +1,2 @@
-# React-Demo-App
-This is a project created for learning.
+This is a new Vanilla JS project Video player app.
 Author - Yashawant Pundlik Sawant.
